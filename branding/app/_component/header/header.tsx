@@ -1,5 +1,5 @@
 import { FormattedMessage } from "react-intl";
 
-export function Header() {
+export async function Header() {
   return <FormattedMessage id="test" defaultMessage={"key"} />;
 }

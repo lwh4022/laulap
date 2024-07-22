@@ -1,3 +1,4 @@
+"use client";
 import LangSetter from "./hook/lang-provider";
 import { Header } from "./_component/header/header";
 
